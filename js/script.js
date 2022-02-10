@@ -1,4 +1,8 @@
 // Complete Day 1 goals here
+var songTitles = ["Bad Habits", "Sweet Caroline"];
+class Song {
+  let title
+}
 
 function displaySongInfo() {
   // Complete the Day 2 goals inside this function
